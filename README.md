@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Aryan Qayum banner" width="100%" />
@@ -265,3 +266,21 @@ aryan@devbox:~$ cat connect.md
 <br/>
 <sub><!--LAST_SYNCED-->Last synced: 06 Aug 2026, 00:00 IST<!--/LAST_SYNCED--></sub>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**EnzoCodes786/EnzoCodes786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 4db4aec89d2e7c256d7c78d55ee0e2d541940ec9
