@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Aryan Qayum banner" width="100%" />
