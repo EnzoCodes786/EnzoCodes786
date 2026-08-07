@@ -266,8 +266,7 @@ aryan@devbox:~$ cat connect.md
 <br/>
 <sub><!--LAST_SYNCED-->Last synced: 06 Aug 2026, 00:00 IST<!--/LAST_SYNCED--></sub>
 </div>
-=======
-## Hi there 👋
+
 
 <!--
 **EnzoCodes786/EnzoCodes786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
